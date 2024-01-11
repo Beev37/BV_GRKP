@@ -1,0 +1,12 @@
+/node_modules
+.o
+.pyc
+.class
+/bin
+/out
+/target
+*.log
+*.lock
+*.tmp
+Thumbs.db
+.DS_Store
